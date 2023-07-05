@@ -1,0 +1,22 @@
+{
+  "name": "BackEnd-NodeJs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "touch": "^3.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "compression": "^1.7.4",
+    "helmet": "^7.0.0",
+    "morgan": "^1.10.0"
+  }
+}
